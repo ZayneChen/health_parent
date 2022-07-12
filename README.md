@@ -4,6 +4,8 @@
 HTML5 bootstrap ElementUI Vue.js ajax
 ### 分布式架构及权限技术栈
 zookeeper dubbo SpringMvc SpringSecurity
+### 报表技术栈
+ApacgePOI Echarts
 ### 持久化技术栈
 MyBatis MySQL
 ### 第三方服务
